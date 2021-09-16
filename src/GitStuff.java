@@ -1,5 +1,5 @@
 public class GitStuff {
 
+String string = "hej";
 
-    int i = 0;
 }
